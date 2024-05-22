@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "967021110465",
+    "firebase_url": "https://iotca-project-9db0d-default-rtdb.firebaseio.com",
+    "project_id": "iotca-project-9db0d",
+    "storage_bucket": "iotca-project-9db0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967021110465:android:67713ced490df2631e2040",
+        "android_client_info": {
+          "package_name": "com.example.weatheriiotca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVfcaex9DfkPcrioJTN9aoKWu593kktEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
